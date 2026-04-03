@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Status](https://img.shields.io/badge/Status-Active%20Automation-success?style=for-the-badge) 
+![Focus](https://img.shields.io/badge/Focus-Financial%20Monitoring-blue?style=for-the-badge)
+
+
+
 # 🏛️ SG Financial Monitor (Python Edition)
 **SG Financial Monitor** is a professional-grade Telegram bot written entirely in **Python**. It serves as a strategic intelligence terminal, fetching live market data and performing real-time technical analysis using industry-standard Python data libraries.
 ### 🐍 Python Technical Stack
