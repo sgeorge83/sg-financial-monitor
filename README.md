@@ -21,10 +21,10 @@ pip install pyTelegramBotAPI pandas requests
 
 ```
 **2. Configure the script:**
-Open sgfin.py in your code editor and insert your API_TOKEN.
+Open sgfinfree.py in your code editor and insert your API_TOKEN.
 **3. Launch the terminal:**
 ```bash
-python sgfin.py
+python sgfinfree.py
 
 ```
 ### 📊 Strategic Indicators Provided
